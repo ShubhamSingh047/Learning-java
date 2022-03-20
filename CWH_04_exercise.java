@@ -1,4 +1,4 @@
-import java.util.*;0
+import java.util.*;
 public class CWH_04_exrcise{
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
